@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B5_ApiTutorial", "B5_ApiTut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B6_JWT_JsonWebToken", "B6_JWT_JsonWebToken\B6_JWT_JsonWebToken.csproj", "{EC74488E-63D2-4681-8976-64479323B2A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B7_ConnectDataBase", "B7_ConnectDataBase\B7_ConnectDataBase.csproj", "{59E7B193-72E0-4C5F-B1FF-1EF46D6B1AEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B7_ConnectDataBase", "B7_ConnectDataBase\B7_ConnectDataBase.csproj", "{59E7B193-72E0-4C5F-B1FF-1EF46D6B1AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B8_DownloadingMultipleFiles", "B8_DownloadingMultipleFiles\B8_DownloadingMultipleFiles.csproj", "{5F6A31FB-52D2-4842-8C4A-245E6DC3107F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{59E7B193-72E0-4C5F-B1FF-1EF46D6B1AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E7B193-72E0-4C5F-B1FF-1EF46D6B1AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E7B193-72E0-4C5F-B1FF-1EF46D6B1AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6A31FB-52D2-4842-8C4A-245E6DC3107F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6A31FB-52D2-4842-8C4A-245E6DC3107F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6A31FB-52D2-4842-8C4A-245E6DC3107F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6A31FB-52D2-4842-8C4A-245E6DC3107F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
